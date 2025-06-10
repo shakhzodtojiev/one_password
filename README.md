@@ -1,2 +1,2 @@
-# one_password
+# OnePass
 Password management system
